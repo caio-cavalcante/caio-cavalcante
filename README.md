@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack website to ease the access for a talent pool and internship opportunities. <br>
+🔭 Born to solve rubik's cube and math problems, forced to learn coding. <br>
 
 
 # 💻 Tech Stack:
